@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.market.brc</groupId>
+  <artifactId>brcSDK</artifactId>
+  <versioning>
+    <release>1.0.1</release>
+    <versions>
+      <version>1.0.1</version>
+    </versions>
+    <lastUpdated>20201203140506</lastUpdated>
+  </versioning>
+</metadata>
