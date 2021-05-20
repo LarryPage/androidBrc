@@ -50,9 +50,9 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>android</groupId>
-      <artifactId>brcApi2</artifactId>
-      <version>unspecified</version>
+      <groupId>com.market.brc</groupId>
+      <artifactId>brc_api2</artifactId>
+      <version>1.0.3</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
